@@ -29,7 +29,7 @@ I built an Artificial Intelligence app to fix this.
 ### 2. Feature Engineering & AI Training
 *(Coaches select base stats, and the app automatically calculates complex physics metrics like 'Spatial Danger' before training the XGBoost brain.)*
 ### 3. Head-to-Head Match Scouting
-*(The AI hides the target game, tests it blindly, and generates a side-by-side 'Goals Above Expected' leaderboard for both teams.)*
+*(hides the target game, tests it blindly, and generates a side-by-side 'Goals Above Expected' leaderboard for both teams.)*
 ---
 
 ## ⚙️ Technical Architecture (The Nuts & Bolts)
