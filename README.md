@@ -40,7 +40,7 @@ I built an ML pipeline to fix this.
 
 ### 2. Machine Learning Engine
 * **Algorithm:** XGBoost Classifier (chosen for sequential error correction).
-* **Cost-Sensitive Learning:** Applied a **3.0x penalty weight** to missed shots that were defensively challenged. This corrected an early data bias where elite D-1 players making lucky, low-percentage shots confused the AI into thinking defense didn't matter.
+* **Cost-Sensitive Learning:** Applied a **3.0x penalty weight** to missed shots that were defensively challenged. This corrected an early data bias where elite D-1 players making lucky, low-percentage shots confused the ML into thinking defense didn't matter.
 
 ### 3. Blind Validation Protocol
 * **Methodology:** Leave-One-Group-Out Cross-Validation (LOGO-CV).
