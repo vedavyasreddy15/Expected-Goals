@@ -14,9 +14,9 @@ Reporting to: Tanner Elliott <tanell@udel.edu>
 ## 🍼 The "Explain it Simply" Breakdown
 Traditional sports stats often lie. If a player takes a terrible shot from 20 yards away, but it bounces off a defender's helmet and goes in, the stat sheet says "Great Job: 1 Goal." If a player takes a perfect, wide-open shot from 3 yards away, but the goalie makes a miracle save, the stat sheet says "Bad Job: 0 Goals." 
 
-I built an Artificial Intelligence app to fix this. 
+I built an ML pipeline to fix this. 
 * **The Goal:** Grade the *decision* to shoot, not just the result.
-* **How it Works:** We feed the AI over 1,500 historic shots. It learns the physics of the game.
+* **How it Works:** We feed the AI over 1,500 historic shots. It learns the game's physics.
 * **The Result:** When a player shoots, the app ignores whether it went in or not. Instead, it looks at distance, angle, and defensive pressure, and spits out a percentage (e.g., "That shot had a 28% chance of going in"). 
 * **The Business Value:** Coaches can now mathematically prove which players are getting lucky, which are getting unlucky, and which players are making the smartest decisions on the field.
 
