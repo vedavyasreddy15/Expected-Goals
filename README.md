@@ -7,6 +7,8 @@ This project was developed during my Data Science & Sports Analytics Internship 
 
 ⚠️ **Data Privacy:** Because this application is powered by confidential, proprietary scouting data, all raw datasets (`.csv`, `.xlsx`) have been strictly excluded from this public repository. This page serves as a technical portfolio to demonstrate the system's architecture, machine learning pipeline, and user interface.
 
+Head: Christina Rasnake <crasnake@udel.edu>,
+Reporting to: Tanner Elliott <tanell@udel.edu>
 ---
 
 ## 🍼 The "Explain it Simply" Breakdown
