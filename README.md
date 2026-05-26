@@ -48,4 +48,15 @@ I built an Artificial Intelligence app to fix this.
 * **Framework:** Streamlit
 * **Automation:** Designed a zero-code drag-and-drop interface. The coaching staff can drop in a new post-game Excel file, and the app autonomously detects data types, builds the interaction terms, and outputs the scouting report in seconds.
 
----
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/43435323-31ee-46d5-a667-916999111379" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/afa29dc2-0d70-4594-ad10-a0e695b4e845" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4b9b9e38-1bfb-4b69-80f5-8d8b372fab79" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/265b65df-8b0d-49f5-92dd-3739f959a2f2" />
+
+
+
+
+
